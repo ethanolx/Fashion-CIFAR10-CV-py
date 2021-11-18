@@ -12,6 +12,8 @@ seaborn = "*"
 sklearn = "*"
 hilbertcurve = "*"
 ipykernel = "*"
+turtle = "*"
+mobilechelonian = "*"
 
 [dev-packages]
 
