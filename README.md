@@ -34,3 +34,16 @@
 ```
 
 ## See Also
+
+* Assignment Brief: `doc/CA1_Brief.pdf`
+* Part A slides: `doc/part-a.pptx`
+* Part B slides: `doc/part-b.pptx`
+* Part C technical paper: `doc/part-c.doc`
+
+## References for Part C
+
+[1]	3Blue1Brown. (2017) Hilbert's Curve: Is infinite math useful? Youtube. Available at: https://www.youtube.com/watch?v=3s7h2MHQtxc [Accessed 22 November 2021]
+
+[2]	Chopra, K., and Srimathi, C. (2018) ‘Logistic Regression and Convolutional Neural Networks Performance Analysis based on Size of Dataset’, International Journal of Engineering Development and Research (IJEDR), 6(1), pp. 292-295. https://www.ijedr.org/papers/IJEDR1801048.pdf [Accessed 22 November 2021]
+
+[3]	‘Hilbert curve’ (2021) Wikipedia. Available at: https://en.wikipedia.org/wiki/Hilbert_curve [Accessed 22 November 2021]
