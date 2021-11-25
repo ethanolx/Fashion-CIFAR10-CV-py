@@ -11,9 +11,9 @@
 
 ```
     CA1 ---- doc ---- CA1_Brief.pdf
-         |        |-- part-a.pptx
-         |        |-- part-b.pptx
-         |        `-- part-c.pptx
+         |        |-- a.pptx
+         |        |-- b.pptx
+         |        `-- c.pptx
          |
          |-- models ---- a ---- gs_results_1.p
          |           |      |-- gs_results_2.p
@@ -22,8 +22,11 @@
          |           |
          |           `-- b ---- model.h5
          |
-         |-- notebooks ---- a.ipynb
+         |-- notebooks ---- a.html
+         |              |-- a.ipynb
+         |              |-- b.html
          |              |-- b.ipynb
+         |              |-- c.html
          |              `-- c.ipynb
          |
          |-- .gitignore
@@ -36,9 +39,9 @@
 ## See Also
 
 * Assignment Brief: `doc/CA1_Brief.pdf`
-* Part A slides: `doc/part-a.pptx`
-* Part B slides: `doc/part-b.pptx`
-* Part C technical paper: `doc/part-c.doc`
+* Part A slides: `doc/a.pptx`
+* Part B slides: `doc/b.pptx`
+* Part C technical paper: `doc/c.doc`
 
 ## References for Part C
 
